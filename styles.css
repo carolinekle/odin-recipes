@@ -1,0 +1,28 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: rgb(159, 132, 12);
+}
+
+.image{
+    height:auto;
+    width: 250px;
+
+}
+
+h2{
+    color: green;
+}
+.long{
+    inline-size: 500px;
+    overflow: auto;
+    hyphens: manual;
+}
+
+.button{
+    background-color: rgb(165, 225, 80);
+    size: 20px;
+    color: white;
+}
