@@ -15,11 +15,7 @@ h1{
 h2{
     color: green;
 }
-.long{
-    inline-size: 500px;
-    overflow: auto;
-    hyphens: manual;
-}
+
 
 .button{
     background-color: rgb(165, 225, 80);
